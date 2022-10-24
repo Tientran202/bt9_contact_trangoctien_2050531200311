@@ -28,7 +28,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class git remoteMainActivity extends AppCompatActivity {
     RecyclerView main_rcv;
     ContactAdapter contactAdapter;
     ContentResolver contentResolver;
